@@ -1,6 +1,6 @@
 # fireplace
 required:
-python compiler
+python compiler or windows pc
 
 a .exe version will be comming soon!
 please report any issues or exploits that the game has.
